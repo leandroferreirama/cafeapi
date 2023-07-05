@@ -1,13 +1,13 @@
 # CaféApi Library Test
 
-[![Maintainer](http://img.shields.io/badge/maintainer-@leandroferreiram-blue.svg?style=flat-square)](https://twitter.com/leandroferreiram)
-[![Source Code](http://img.shields.io/badge/source-leandroferreiram/cafeapi-blue.svg?style=flat-square)](https://github.com/leandroferreiram/cafeapi)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/leandroferreiram/cafeapi.svg?style=flat-square)](https://packagist.org/packages/leandroferreiram/cafeapi)
-[![Latest Version](https://img.shields.io/github/release/leandroferreiram/cafeapi.svg?style=flat-square)](https://github.com/leandroferreiram/cafeapi/releases)
+[![Maintainer](http://img.shields.io/badge/maintainer-@leandroferreirama-blue.svg?style=flat-square)](https://twitter.com/leandroferreirama)
+[![Source Code](http://img.shields.io/badge/source-leandroferreirama/cafeapi-blue.svg?style=flat-square)](https://github.com/leandroferreirama/cafeapi)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/leandroferreirama/cafeapi.svg?style=flat-square)](https://packagist.org/packages/leandroferreirama/cafeapi)
+[![Latest Version](https://img.shields.io/github/release/leandroferreirama/cafeapi.svg?style=flat-square)](https://github.com/leandroferreirama/cafeapi/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/scrutinizer/build/g/leandroferreiram/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/leandroferreiram/cafeapi)
-[![Quality Score](https://img.shields.io/scrutinizer/g/leandroferreiram/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/leandroferreiram/cafeapi)
-[![Total Downloads](https://img.shields.io/packagist/dt/leandroferreiram/cafeapi.svg?style=flat-square)](https://packagist.org/packages/leandroferreiram/cafeapi)
+[![Build](https://img.shields.io/scrutinizer/build/g/leandroferreirama/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/leandroferreirama/cafeapi)
+[![Quality Score](https://img.shields.io/scrutinizer/g/leandroferreirama/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/leandroferreirama/cafeapi)
+[![Total Downloads](https://img.shields.io/packagist/dt/leandroferreirama/cafeapi.svg?style=flat-square)](https://packagist.org/packages/leandroferreirama/cafeapi)
 
 ###### CaféApi Library is a small set of classes developed in UpInside's Full Stack PHP Developer training for integration into the webservice of a SaaS platform developed in the course..
 
@@ -27,13 +27,13 @@ Você pode saber mais **[clicando aqui](https://www.upinside.com.br/fsphp)**.
 Uploader is available via Composer:
 
 ```bash
-"leandroferreiram/cafeapi": "^1.0"
+"leandroferreirama/cafeapi": "^1.0"
 ```
 
 or run
 
 ```bash
-composer require leandroferreiram/cafeapi
+composer require leandroferreirama/cafeapi
 ```
 
 ## Documentation
@@ -152,7 +152,7 @@ Você também conta com classes para os endpoints de carteiras e assinaturas, to
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/leandroferreiram/uploader/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/leandroferreirama/uploader/blob/master/CONTRIBUTING.md) for details.
 
 ## Support
 
@@ -164,10 +164,9 @@ Thank you
 
 ## Credits
 
-- [Robson V. Leite](https://github.com/leandroferreiram) (Developer)
-- [UpInside Treinamentos](https://github.com/leandroferreiram) (Team)
-- [All Contributors](https://github.com/leandroferreiram/cafeapi/contributors) (This Rock)
+- [Leandro Ferreira Marcelli](https://github.com/leandroferreirama) (Developer)
+- [All Contributors](https://github.com/leandroferreirama/cafeapi/contributors) (This Rock)
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/leandroferreiram/cafeapi/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/leandroferreirama/cafeapi/blob/master/LICENSE) for more information.
