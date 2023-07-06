@@ -152,7 +152,7 @@ Você também conta com classes para os endpoints de carteiras e assinaturas, to
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/leandroferreirama/uploader/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/leandroferreirama/cafeapi/blob/master/CONTRIBUTING.md) for details.
 
 ## Support
 
